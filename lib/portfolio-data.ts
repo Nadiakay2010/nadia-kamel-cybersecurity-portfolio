@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Nadia Aarab',
+  name: 'Nadia Kamel',
   title: 'Cybersecurity & IT Professional',
   intro:
     'Cybersecurity graduate interested in IT Support, Help Desk, SOC Analyst, and entry-level cybersecurity opportunities.',
@@ -12,6 +12,9 @@ export const contactLinks = {
 }
 
 export const certifications = [
+  { name: 'CompTIA A+', issuer: 'CompTIA' },
+  { name: 'CompTIA Network+', issuer: 'CompTIA' },
+  { name: 'CompTIA Security+', issuer: 'CompTIA' },
   { name: 'Cisco CyberOps Associate', issuer: 'Cisco' },
   { name: 'Cisco Certified Support Technician (CCST) – Cybersecurity', issuer: 'Cisco' },
   { name: 'CWNA', issuer: 'Certified Wireless Network Administrator' },

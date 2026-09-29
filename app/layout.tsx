@@ -7,9 +7,9 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const jetbrains = JetBrains_Mono({ subsets: ['latin'], variable: '--font-jetbrains' })
 
 export const metadata: Metadata = {
-  title: 'Nadia Aarab | Cybersecurity & IT Professional',
+  title: 'Nadia Kamel | Cybersecurity & IT Professional',
   description:
-    'Portfolio of Nadia Aarab, a cybersecurity graduate from Wake Technical Community College seeking IT Support, Help Desk, SOC Analyst, and entry-level cybersecurity roles.',
+    'Portfolio of Nadia Kamel, a cybersecurity graduate from Wake Technical Community College seeking IT Support, Help Desk, SOC Analyst, and entry-level cybersecurity roles.',
   generator: 'v0.app',
   icons: {
     icon: [
