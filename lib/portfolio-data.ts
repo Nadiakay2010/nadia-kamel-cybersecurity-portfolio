@@ -7,7 +7,7 @@ export const profile = {
 
 export const contactLinks = {
   linkedin: 'https://www.linkedin.com/in/your-profile',
-  github: 'https://github.com/your-username',
+  github: 'https://github.com/Nadiakay2010',
   email: 'mailto:your.email@example.com',
 }
 
