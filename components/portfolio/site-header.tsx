@@ -20,7 +20,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
         <a href="#top" className="flex items-center gap-2 font-mono text-sm font-medium">
           <ShieldCheck className="size-5 text-primary" aria-hidden="true" />
-          <span>nadia.aarab</span>
+          <span>nadia.kamel</span>
         </a>
 
         <nav aria-label="Primary" className="hidden md:block">
