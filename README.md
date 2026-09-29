@@ -1,33 +1,74 @@
-# nadia-kamel-cybersecurity-portfolio
+# Nadia Kamel Cybersecurity Portfolio
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Welcome to my cybersecurity and IT portfolio.
 
-## Built with v0
+I am a cybersecurity graduate with hands-on experience in SOC operations, security monitoring, log analysis, incident response, networking, endpoint security, and technical support.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+## Live Portfolio
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_bP2hC7yLXjg4NEo0axyFP9UgR9Tv)
+Visit my portfolio website:
 
-## Getting Started
+https://nadia-kamel-cybersecurity-portfolio.vercel.app
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+I earned an Associate of Applied Science in Information Technology - Cybersecurity from Wake Technical Community College.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I am interested in opportunities such as:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- SOC Analyst
+- Security Analyst
+- IT Support
+- Help Desk
+- Entry-Level Cybersecurity
 
-## Learn More
+## Certifications
 
-To learn more, take a look at the following resources:
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- Cisco CyberOps Associate
+- Cisco CCST Cybersecurity
+- CWNA
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+## Technical Skills
+
+- Splunk
+- ELK / Kibana
+- Wireshark
+- Sysmon
+- Suricata
+- YARA
+- Nessus
+- Windows
+- Linux
+- TCP/IP
+- DNS
+- DHCP
+- Firewalls
+- VPNs
+- AWS EC2
+- Azure
+- Docker
+- VirtualBox
+- PowerShell
+- Python
+
+## Featured Projects
+
+### Home SOC Lab
+Built a monitoring environment using Elasticsearch, Kibana, Sysmon, Winlogbeat, and Docker to analyze Windows security logs and create dashboards.
+
+### Detection Engineering
+Created Suricata IDS rules for simulated command-and-control traffic and YARA rules for identifying malicious files.
+
+### Digital Forensics
+Analyzed forensic artifacts to identify suspicious domains, URLs, email addresses, and search activity.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/nadia-kamel-6bb53928b
+
+GitHub: https://github.com/Nadiakay2010
+
+Email: Nadia.kay2025@gmail.com
