@@ -43,7 +43,7 @@ export function Contact() {
                 <GitHubIcon />
                 GitHub
               </a>
-            <a href={contactLinks.email} className={cn(buttonVariants({ variant: 'outline', size: 'lg' }), 'h-11 px-5')}>
+            <a href="mailto:Nadia.kay2025@gmail.com" target="_blank" rel="noopener noreferrer" className={cn(buttonVariants({ variant: 'outline', size: 'lg' }), 'h-11 px-5')}>
                 <Mail aria-hidden="true" />
                 Email
               </a>
