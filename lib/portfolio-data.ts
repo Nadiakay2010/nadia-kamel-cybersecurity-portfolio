@@ -32,18 +32,45 @@ export const skillGroups = [
   { label: 'Scripting', skills: ['PowerShell', 'Python'] },
 ]
 
-export const experience = {
-  role: 'SOC Analyst Intern',
-  organization: 'Carolina Cybersecurity Operations Center',
-  highlights: [
-    'Security monitoring',
-    'Splunk dashboards',
-    'Phishing and brute-force analysis',
-    'Wireshark network analysis',
-    'Incident response',
-    'AWS security',
-  ],
+type ExperienceEntry = {
+  role: string
+  organization: string
+  location?: string
+  period?: string
+  description?: string
+  highlights?: string[]
 }
+
+export const experience: ExperienceEntry[] = [
+  {
+    role: 'Cybersecurity Support Consultant',
+    organization: 'Ekkor',
+    location: 'Remote',
+    period: 'September 2025 – July 2026',
+    description:
+      'Reviewed security alerts and system logs, supported endpoint and network security, performed vulnerability scans and security checks, documented findings, and escalated suspicious activity.',
+  },
+  {
+    role: 'Network & Endpoint Security Consultant',
+    organization: 'Cerebro Technologie',
+    location: 'Remote',
+    period: 'March 2024 – July 2025',
+    description:
+      'Supported endpoint protection, user access, VPNs, secure connectivity, and troubleshooting of TCP/IP, DNS, DHCP, and firewall issues.',
+  },
+  {
+    role: 'SOC Analyst Intern',
+    organization: 'Carolina Cybersecurity Operations Center',
+    highlights: [
+      'Security monitoring',
+      'Splunk dashboards',
+      'Phishing and brute-force analysis',
+      'Wireshark network analysis',
+      'Incident response',
+      'AWS security',
+    ],
+  },
+]
 
 export const projects = [
   {
@@ -60,5 +87,17 @@ export const projects = [
     title: 'Kali Linux & Metasploit Lab',
     description: 'A cybersecurity lab using Kali Linux and Metasploit.',
     tools: ['Kali Linux', 'Metasploit'],
+  },
+  {
+    title: 'Detection Engineering',
+    description:
+      'Developed Suricata IDS rules for simulated command-and-control traffic and YARA rules to identify malicious files.',
+    tools: ['Suricata', 'YARA'],
+  },
+  {
+    title: 'Digital Forensics',
+    description:
+      'Analyzed forensic artifacts to identify suspicious domains, URLs, email addresses, and search activity.',
+    tools: ['Forensic Artifacts'],
   },
 ]
