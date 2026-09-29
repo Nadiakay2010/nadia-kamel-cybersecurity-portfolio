@@ -6,9 +6,9 @@ export const profile = {
 }
 
 export const contactLinks = {
-  linkedin: 'https://www.linkedin.com/in/your-profile',
+  linkedin: 'https://www.linkedin.com/in/nadia-kamel-6bb53928b',
   github: 'https://github.com/Nadiakay2010',
-  email: 'mailto:your.email@example.com',
+  email: 'mailto:Nadia.kay2025@gmail.com',
 }
 
 export const certifications = [
